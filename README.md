@@ -1,3 +1,5 @@
+** BETALOADER PRIVADO ** - Nuevo injector
+
 Desactivar AntiVirus para evitar que borre el dll o el injector.
 
 Abrir BetaLoader.exe, loguearse o iniciar sesión como invitado (guest).
